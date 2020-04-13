@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Just Draw It JEdition</string>
+
+    <string name="title_activity_fight__sence">Fight_Sence</string>
+
+     <!-- Main Menu -->
+     <string name="Play">Play</string>
+     <string name="Choose_Difficult">Choose Difficult</string>
+
+
+
+     <!-- Dialog Leave -->
+     <string name="Cancel">Cancel</string>
+     <string name="WantToLeave">Want To Leave?</string>
+     <string name="Chose">Chose</string>
+     <string name="Leave">Leave</string>
+
+    <!-- Dialog Choose Difficult -->
+    <string name="Easy">Easy</string>
+    <string name="Normal">Normal</string>
+    <string name="Hard">Hard</string>
+
+    <!-- Dialog GameOver  -->
+    <string name="GameOver">GameOver</string>
+    <string name="OK">OK</string>
+
+    <!-- Game Scene  -->
+     <string name="Score">Your Score:</string>
+
+ </resources>
